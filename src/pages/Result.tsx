@@ -7,13 +7,13 @@ import BGCBox from "@/components/BGCBox";
 
 const resultData = {
   cgpa: 3.150,
-  completed: 60,
-  before: 20,
+  completed: 63,
+  before: 21,
   inThis: 9,
-  totalCourses: 29,
+  totalCourses: 30,
   gpaTable: [
-    { semester: "233", ch: "17.0", gpa: "2.650", cgpa: "2.650" },
-    { semester: "241", ch: "22.0", gpa: "3.030", cgpa: "2.850" },
+    { semester: "233", ch: "20.0", gpa: "2.950", cgpa: "2.950" },
+    { semester: "241", ch: "22.0", gpa: "3.030", cgpa: "3.050" },
     { semester: "243", ch: "21.0", gpa: "3.790", cgpa: "3.150" },
   ],
   items: [
@@ -22,7 +22,7 @@ const resultData = {
     { semester: "233", course: "07-0411-ACC106", title: "Principles of Accounting and Management", type: "", credit: "2.0", result: "C+", comments: "" },
     { semester: "233", course: "07-0533-PHY LAB110", title: "Lab-3:based on CSE1103", type: "", credit: "1.0", result: "A+", comments: "" },
     { semester: "233", course: "07-0533-PHY103", title: "Physics-I", type: "", credit: "2.0", result: "B-", comments: "" },
-    { semester: "233", course: "07-0541-MATH104", title: "Mathematics-I", type: "", credit: "3.0", result: "F", comments: "" },
+    { semester: "233", course: "07-0541-MATH104", title: "Mathematics-I", type: "", credit: "3.0", result: "D", comments: "" },
     { semester: "233", course: "07-0611-CF LAB108", title: "Lab-1:based on CSE1101", type: "", credit: "1.0", result: "A+", comments: "" },
     { semester: "233", course: "07-0611-CF101", title: "Computer Fundamentals and Applications", type: "", credit: "3.0", result: "A-", comments: "" },
     { semester: "233", course: "07-0613-CP LAB109", title: "Lab-2:based on CSE1102", type: "", credit: "1.0", result: "A", comments: "" },
